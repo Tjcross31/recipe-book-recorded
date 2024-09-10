@@ -13,3 +13,4 @@
 ## Instructions
 
 TODO: these are missing
+Reminder: I knw and we need to fix them
